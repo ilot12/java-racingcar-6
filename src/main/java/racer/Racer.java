@@ -34,9 +34,4 @@ public class Racer {
     public void increaseAdvance() {
         this.advance++;
     }
-    
-    @Override
-    public String toString() {
-        return this.name;
-    }
 }
